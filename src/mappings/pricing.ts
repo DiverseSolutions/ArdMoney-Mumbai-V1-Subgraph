@@ -3,7 +3,7 @@ import { Pair, Token, Bundle } from '../types/schema'
 import { BigDecimal, Address, BigInt, log } from '@graphprotocol/graph-ts/index'
 import { ZERO_BD, factoryContract, ADDRESS_ZERO, ONE_BD, UNTRACKED_PAIRS } from './helpers'
 
-const WMATIC_ADDRESS = '0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889'
+const WMATIC_ADDRESS = '0x9c3c9283d3e44854697cd22d3faa240cfb032889'
 const MONT_ADDRESS = '0x372beb3466036f011778726643ad609544360e8e'
 // const MONT_WMATIC_PAIR = '0xdc13d66ee36e21d6f439847563b8504c2936c249'
 // const USDC_WETH_PAIR = '0x2b8920cBdDCc3e85753423eEceCd179cb9232554' // created 10008355
